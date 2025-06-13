@@ -1,0 +1,8 @@
+{
+  "owner": {
+    "username": "accessstorm"
+  },
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  }
+}
